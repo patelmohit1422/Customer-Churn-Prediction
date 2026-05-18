@@ -1,0 +1,5 @@
+Rows: 7,043
+Churn rate: 13.57%
+Average tenure: 36.2 months
+Average monthly charges: 66.01
+Average total charges: 2393.02
